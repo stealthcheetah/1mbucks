@@ -61,7 +61,7 @@ export default function Home() {
         className={`${geistSans.className} ${geistMono.className} flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black`}
       >
         <main className="flex h-screen w-full max-w-3xl flex-col gap-8 py-16 px-16 bg-white dark:bg-black">
-          <audio ref={audioRef} src="/buck.mp3" />
+          <audio ref={audioRef} src="/1mbucks/buck.mp3" />
 
           <h1 className="text-3xl font-semibold text-center text-black dark:text-white">
             1 Million Bucks
