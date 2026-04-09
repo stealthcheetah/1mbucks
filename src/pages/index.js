@@ -49,7 +49,7 @@ export default function Home() {
     setAutoScroll(atBottom);
   };
 
-  const bucks = Array.from({ length: count }, (_, i) => `${i + 1}. buck`);
+  const bucks = Array.from({ length: count }, (_, i) => `${i + 1}. BUCK!`);
 
   return (
     <>
